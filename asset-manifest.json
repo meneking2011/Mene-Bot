@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Mene-Bot/static/css/main.ae5684a3.css",
-    "main.js": "/Mene-Bot/static/js/main.81c4b8cf.js",
+    "main.js": "/Mene-Bot/static/js/main.fc0a07c6.js",
     "index.html": "/Mene-Bot/index.html",
     "main.ae5684a3.css.map": "/Mene-Bot/static/css/main.ae5684a3.css.map",
-    "main.81c4b8cf.js.map": "/Mene-Bot/static/js/main.81c4b8cf.js.map"
+    "main.fc0a07c6.js.map": "/Mene-Bot/static/js/main.fc0a07c6.js.map"
   },
   "entrypoints": [
     "static/css/main.ae5684a3.css",
-    "static/js/main.81c4b8cf.js"
+    "static/js/main.fc0a07c6.js"
   ]
 }
